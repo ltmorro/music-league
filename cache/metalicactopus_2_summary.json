@@ -1,0 +1,106 @@
+{
+  "league_name": "metalicactopus_2",
+  "summary_stats": {
+    "total_competitors": 20,
+    "total_submissions": 160,
+    "total_votes": 1318,
+    "total_rounds": 8,
+    "avg_controversy": 0.48285103940506674,
+    "avg_spotify_popularity": 57.34375,
+    "avg_points_per_song": 9.9375
+  },
+  "top_songs": [
+    {
+      "song_name": "Strangers Like Me",
+      "artist": "Phil Collins",
+      "total_points": 21
+    },
+    {
+      "song_name": "Your New Morning Alarm",
+      "artist": "Marc Rebillet",
+      "total_points": 21
+    },
+    {
+      "song_name": "The Spark",
+      "artist": "Kabin Crew",
+      "total_points": 19
+    },
+    {
+      "song_name": "Some Hip Drum Shit",
+      "artist": "The Tony Williams Lifetime",
+      "total_points": 19
+    },
+    {
+      "song_name": "Work Bitch",
+      "artist": "Britney Spears",
+      "total_points": 19
+    },
+    {
+      "song_name": "Backwoods Altar",
+      "artist": "TOBACCO",
+      "total_points": 18
+    },
+    {
+      "song_name": "Nterini - A COLORS SHOW",
+      "artist": "Fatoumata Diawara",
+      "total_points": 18
+    },
+    {
+      "song_name": "Say It Ain't So - Original Mix",
+      "artist": "Weezer",
+      "total_points": 18
+    },
+    {
+      "song_name": "I Need A Dollar",
+      "artist": "Aloe Blacc",
+      "total_points": 18
+    },
+    {
+      "song_name": "Fast Car",
+      "artist": "Tracy Chapman",
+      "total_points": 17
+    }
+  ],
+  "top_submitters": [
+    [
+      "Kathie Xiao",
+      13.75
+    ],
+    [
+      "hangman28",
+      13.5
+    ],
+    [
+      "Ben Schwartz",
+      12.375
+    ],
+    [
+      "Lori Hutch",
+      11.0
+    ],
+    [
+      "Troupe Earnest Gammage",
+      10.5
+    ],
+    [
+      "katiebyron",
+      10.125
+    ],
+    [
+      "Kristin Bonds",
+      9.875
+    ],
+    [
+      "secondstanza",
+      9.75
+    ],
+    [
+      "andythawkins",
+      9.5
+    ],
+    [
+      "papaya400",
+      9.375
+    ]
+  ]
+}

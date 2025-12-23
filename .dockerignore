@@ -1,0 +1,59 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info
+.eggs
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv
+venv
+ENV
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+
+# Local environment
+.env
+.env.local
+.env.*.local
+
+# Development files
+*.md
+!README.md
+tests/
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store
+
+# Outputs (regenerated at runtime)
+outputs/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Claude/AI config
+.claude/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/

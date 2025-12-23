@@ -1,0 +1,106 @@
+{
+  "league_name": "metalicactopus_2",
+  "summary_stats": {
+    "total_competitors": 20,
+    "total_submissions": 120,
+    "total_votes": 1002,
+    "total_rounds": 6,
+    "avg_controversy": 0.49383965485328307,
+    "avg_spotify_popularity": 55.56666666666667,
+    "avg_points_per_song": 10.0
+  },
+  "top_songs": [
+    {
+      "song_name": "Your New Morning Alarm",
+      "artist": "Marc Rebillet",
+      "total_points": 21
+    },
+    {
+      "song_name": "The Spark",
+      "artist": "Kabin Crew",
+      "total_points": 19
+    },
+    {
+      "song_name": "Work Bitch",
+      "artist": "Britney Spears",
+      "total_points": 19
+    },
+    {
+      "song_name": "Say It Ain't So - Original Mix",
+      "artist": "Weezer",
+      "total_points": 18
+    },
+    {
+      "song_name": "I Need A Dollar",
+      "artist": "Aloe Blacc",
+      "total_points": 18
+    },
+    {
+      "song_name": "Backwoods Altar",
+      "artist": "TOBACCO",
+      "total_points": 18
+    },
+    {
+      "song_name": "Nterini - A COLORS SHOW",
+      "artist": "Fatoumata Diawara",
+      "total_points": 18
+    },
+    {
+      "song_name": "Fast Car",
+      "artist": "Tracy Chapman",
+      "total_points": 17
+    },
+    {
+      "song_name": "Marechi\u00e0",
+      "artist": "Nu Genea",
+      "total_points": 16
+    },
+    {
+      "song_name": "Misery Business",
+      "artist": "Paramore",
+      "total_points": 16
+    }
+  ],
+  "top_submitters": [
+    [
+      "Kathie Xiao",
+      14.5
+    ],
+    [
+      "hangman28",
+      14.0
+    ],
+    [
+      "Ben Schwartz",
+      11.833333333333334
+    ],
+    [
+      "emcq",
+      10.833333333333334
+    ],
+    [
+      "Kristin Bonds",
+      10.833333333333334
+    ],
+    [
+      "andythawkins",
+      10.666666666666666
+    ],
+    [
+      "Lori Hutch",
+      10.0
+    ],
+    [
+      "secondstanza",
+      9.833333333333334
+    ],
+    [
+      "katiebyron",
+      9.666666666666666
+    ],
+    [
+      "kellyweeks129",
+      9.666666666666666
+    ]
+  ]
+}

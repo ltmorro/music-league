@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git mv:*)",
+      "Bash(find:*)",
+      "mcp__alfred-moris__bigquery_licensor_query",
+      "mcp__alfred-moris__SIA_execute_query",
+      "Bash(python -m pytest:*)",
+      "Bash(uv run python:*)",
+      "mcp__alfred-moris__licensor_foundation_analysis",
+      "mcp__alfred-moris__SIA_verify_query"
+    ],
+    "deny": [],
+    "ask": []
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "afplay /System/Library/Sounds/Blow.aiff"
+          }
+        ]
+      }
+    ]
+  }
+}

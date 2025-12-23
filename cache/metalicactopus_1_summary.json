@@ -1,0 +1,106 @@
+{
+  "league_name": "metalicactopus_1",
+  "summary_stats": {
+    "total_competitors": 18,
+    "total_submissions": 140,
+    "total_votes": 1018,
+    "total_rounds": 8,
+    "avg_controversy": 0.5877313162101162,
+    "avg_spotify_popularity": 56.642857142857146,
+    "avg_points_per_song": 9.714285714285714
+  },
+  "top_songs": [
+    {
+      "song_name": "You're A Mean One, Mr. Grinch",
+      "artist": "Thurl Ravenscroft",
+      "total_points": 22
+    },
+    {
+      "song_name": "Caribou Lou (Album Version (Explicit))",
+      "artist": "Tech N9ne",
+      "total_points": 22
+    },
+    {
+      "song_name": "Pi\u00f9 di te (I Won't Tell)",
+      "artist": "Mina",
+      "total_points": 22
+    },
+    {
+      "song_name": "Desperados Under the Eaves",
+      "artist": "Warren Zevon",
+      "total_points": 19
+    },
+    {
+      "song_name": "Forgot About Dre",
+      "artist": "Dr. Dre",
+      "total_points": 18
+    },
+    {
+      "song_name": "Pony",
+      "artist": "Ginuwine",
+      "total_points": 17
+    },
+    {
+      "song_name": "Doodoo Face",
+      "artist": "Wallpaper.",
+      "total_points": 17
+    },
+    {
+      "song_name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "artist": "Waylon Jennings",
+      "total_points": 17
+    },
+    {
+      "song_name": "Smooth (feat. Rob Thomas)",
+      "artist": "Santana",
+      "total_points": 17
+    },
+    {
+      "song_name": "FDT - Pt. 2",
+      "artist": "YG",
+      "total_points": 17
+    }
+  ],
+  "top_submitters": [
+    [
+      "Ben Schwartz",
+      13.0
+    ],
+    [
+      "secondstanza",
+      12.625
+    ],
+    [
+      "hangman28",
+      12.625
+    ],
+    [
+      "Lori Hutch",
+      12.25
+    ],
+    [
+      "Annie Harrell",
+      11.25
+    ],
+    [
+      "papaya400",
+      10.375
+    ],
+    [
+      "Kristin Bonds",
+      10.125
+    ],
+    [
+      "Adrianna",
+      9.625
+    ],
+    [
+      "kellyweeks129",
+      9.125
+    ],
+    [
+      "Troupe Earnest Gammage",
+      9.125
+    ]
+  ]
+}
