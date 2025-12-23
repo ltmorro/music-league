@@ -31,8 +31,8 @@ ENV
 .env.*.local
 
 # Development files
-*.md
-!README.md
+CHANGELOG.md
+CONTRIBUTING.md
 tests/
 .pytest_cache
 .mypy_cache

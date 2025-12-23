@@ -5,8 +5,8 @@ FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim AS builder
 
 WORKDIR /app
 
-# Copy dependency files
-COPY pyproject.toml uv.lock ./
+# Copy dependency files and README (required by hatchling build)
+COPY pyproject.toml uv.lock README.md ./
 
 # Install dependencies (without dev extras)
 RUN uv sync --frozen --no-dev --no-install-project

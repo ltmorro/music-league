@@ -1,0 +1,132 @@
+[server]
+enableStaticServing = true
+
+[ui]
+layout = "wide"
+
+# Thin (100)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Thin.woff2"
+style = "normal"
+weight = "100"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-ThinItalic.woff2"
+style = "italic"
+weight = "100"
+
+# Light (300)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Light.woff2"
+style = "normal"
+weight = "300"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-LightItalic.woff2"
+style = "italic"
+weight = "300"
+
+# Regular (400)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Regular.woff2"
+style = "normal"
+weight = "400"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-RegularItalic.woff2"
+style = "italic"
+weight = "400"
+
+# Medium (500)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Medium.woff2"
+style = "normal"
+weight = "500"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-MediumItalic.woff2"
+style = "italic"
+weight = "500"
+
+# Bold (700)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Bold.woff2"
+style = "normal"
+weight = "700"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-BoldItalic.woff2"
+style = "italic"
+weight = "700"
+
+# Extrabold (800)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Extrabold.woff2"
+style = "normal"
+weight = "800"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-ExtraboldItalic.woff2"
+style = "italic"
+weight = "800"
+
+# Black (900)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Black.woff2"
+style = "normal"
+weight = "900"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-BlackItalic.woff2"
+style = "italic"
+weight = "900"
+
+# Ultra (950)
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-Ultra.woff2"
+style = "normal"
+weight = "950"
+
+[[theme.fontFaces]]
+family = "SpotifyMix"
+url = "app/static/SpotifyMix-UltraItalic.woff2"
+style = "italic"
+weight = "950"
+
+[theme]
+base = "dark"
+primaryColor = "#16a085"
+backgroundColor = "#2a2a2a"
+secondaryBackgroundColor = "#121212"
+codeBackgroundColor = "#121212"
+textColor = "#ecf0f1"
+linkColor = "#16a085"
+borderColor = "#7f8c8d"
+showWidgetBorder = true
+baseRadius = "0.3rem"
+buttonRadius = "full"
+font = "SpotifyMix"
+headingFontWeights = [600, 500, 500, 500, 500, 500]
+headingFontSizes = ["3rem", "2.5rem", "2.25rem", "2rem", "1.5rem"]
+chartCategoricalColors = ["#FFC864", "#2980b9", "#c0392b", "#8e44ad", "#d35400", "#16a085"]
+
+[theme.sidebar]
+backgroundColor = "#121212"
+secondaryBackgroundColor = "#000000"
+codeBackgroundColor = "#2a2a2a"
+borderColor = "#7f8c8d"
